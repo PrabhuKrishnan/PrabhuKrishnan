@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrabhuKrishnan
-- 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Creating Clean Automation Framework
+- 👀 I’m interested in Automation Testing 
+- 🌱 I’m currently learning Java 8 Lambda Expression and Functional Programming
 - 📫 How to reach me ...https://www.linkedin.com/in/prabhukrishnan/ 
 
 <!---
